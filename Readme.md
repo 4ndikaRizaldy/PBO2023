@@ -4,5 +4,5 @@ Silahkan download atau clone repository ini untuk mendapatkan contoh dan melihat
 1. Clone repository: 
 
 ```python
-git clone "https://github.com/4ndikaRizaldy/PBO2023.git"
+git clone https://github.com/4ndikaRizaldy/PBO2023.git
 ```
